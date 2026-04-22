@@ -20,16 +20,16 @@ The road hasn’t been smooth. I’ve been told what I do is useless, watched fr
 > **My life has no luxuries; I have to learn to use everything I have to its maximum potential.**
 
 ## **principles**
-> **Stability first**
+- **Stability first**
 Boring tech where it counts. Predictable beats clever. Ship what won’t wake you at 3am.
 
-> **Security by design**
+- **Security by design**
 Threat-model early. Least privilege, zero trust inputs, defense in depth.
 
-> **Performance matters**
+- **Performance matters**
 Measure before optimizing. Profile hot paths. Remove work, don’t hide it.
 
-> **Low-level efficiency**
+- **Low-level efficiency**
 Mind allocations, cache lines, syscalls. The machine is not a black box.
 
 ## **contact**
