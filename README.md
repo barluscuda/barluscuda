@@ -1,6 +1,8 @@
 # Hey, I'm Barlus!
 ## **Barracuda Lorfaichong · backend developer · Luang Namtha, Laos**
 
+[![committers.top badge](https://user-badge.committers.top/laos/barluscuda.svg)](https://user-badge.committers.top/laos/barluscuda)
+
 Self-taught. Building fast, secure systems in Go and TypeScript. Stability-first by conviction.
 
 ## **about me**
