@@ -6,7 +6,7 @@
 Self-taught. Building fast, secure systems in Go and TypeScript. Stability-first by conviction.
 
 ## **about me**
-I’m a 16-year-old backend developer from Luang Namtha, Laos. I write Go for services and systems, and TypeScript with React when things need a face. I work on Linux and care about what actually happens under the abstraction.
+I’m a 17-year-old backend developer from Luang Namtha, Laos. I write Go for services and systems, and TypeScript with React when things need a face. I work on Linux and care about what actually happens under the abstraction.
 
 Most of what I build orbits three questions: is it fast, is it safe, and will it still run next year.
 
@@ -15,7 +15,7 @@ I was born on May 3, 2009, in Phonhong District, Vientiane Province, Laos. I gre
 
 I couldn’t afford proper electronics equipment, so I pivoted to software. In Grade 8, an older student came to demo programming; I skipped my own class to watch. That was the start. I began with HTML, then C++ and Java — all written on an old smartphone, because I didn’t have a computer.
 
-In 2023 my uncle gave me my first laptop. It wasn’t powerful, so I installed Linux to make every cycle count. I’ve taught myself entirely from documents on the internet.
+In 2023 my younger uncle gave me my first laptop. It wasn’t powerful, so I installed Linux to make every cycle count. I’ve taught myself entirely from documents on the internet.
 
 The road hasn’t been smooth. I’ve been told what I do is useless, watched friends with the same interest drift away, and once stopped coding for nearly ten months. But I came back. This time, I’m not stopping.
 
